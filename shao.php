@@ -25,5 +25,6 @@ if($_POST){
  密码  <input type="text" name="password"/><br/>
        <input type="submit" value="提交">
  </form>
+ 老板好厉害  
 </body>
 </html>
